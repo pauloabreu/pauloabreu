@@ -7,6 +7,8 @@
 
 #### Alguns Repositórios de estudos:
 * [Python-Conconrrente-Assincrona](https://github.com/pauloabreu/Python-Conconrrente-Assincrona)
+* [FastAPI-Framework-Web-Assincrono](https://github.com/pauloabreu/FastAPI-framework-web-assincrono)
+
 
 <br><br>
 
