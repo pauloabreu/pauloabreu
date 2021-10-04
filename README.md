@@ -9,6 +9,9 @@
 * [Python-Conconrrente-Assincrona](https://github.com/pauloabreu/Python-Conconrrente-Assincrona)
 * [FastAPI-Framework-Web-Assincrono](https://github.com/pauloabreu/FastAPI-framework-web-assincrono)
 
+* [TypeScript-Design-Patterns](https://github.com/pauloabreu/TypeScript-Design-Patterns)
+* [TypeScript-Learn](https://github.com/pauloabreu/TypeScript-Learn)
+
 
 <br><br>
 
