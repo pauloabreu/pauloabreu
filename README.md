@@ -2,7 +2,7 @@
  <br><br><br>
 
 # Olá, seja muito bem vindo(a)!
-### Meu nome é Paulo, estagiário de desenvolvimento de softwares com Python na [Plugthink!](https://plugthink.com/) 
+### Meu nome é Paulo, Python Engineer na [Plugthink!](https://plugthink.com/) 
 ### 
 
 #### Alguns Repositórios de estudos:
