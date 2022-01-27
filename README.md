@@ -8,6 +8,7 @@
 #### Alguns Repositórios de estudos:
 * [Python-Conconrrente-Assincrona](https://github.com/pauloabreu/Python-Conconrrente-Assincrona)
 * [FastAPI-Framework-Web-Assincrono](https://github.com/pauloabreu/FastAPI-framework-web-assincrono)
+* [Python-Web-Scraping ](https://github.com/pauloabreu/Python-Web-Scraping) <br>
 
 * [TypeScript-Design-Patterns](https://github.com/pauloabreu/TypeScript-Design-Patterns)
 * [TypeScript-Learn](https://github.com/pauloabreu/TypeScript-Learn)
