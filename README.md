@@ -2,7 +2,7 @@
  <br><br><br>
 
 # Olá, seja muito bem vindo(a)!
-### Meu nome é Paulo, Python Engineer na [Plugthink!](https://plugthink.com/) 
+### Meu nome é Paulo, Python Engineer na Weni
 ### 
 
 #### Alguns Repositórios de estudos:
