@@ -10,9 +10,7 @@
 * [TypeScript-Learn](https://github.com/pauloabreu/TypeScript-Learn)
 * [CRUD Angular & Spring Boot](https://github.com/pauloabreu/CRUD-Angular-SpringBoot)
 
-
-
-
+  
 
 * [Python-Conconrrente-Assincrona](https://github.com/pauloabreu/Python-Conconrrente-Assincrona)
 * [FastAPI-Framework-Web-Assincrono](https://github.com/pauloabreu/FastAPI-framework-web-assincrono)
